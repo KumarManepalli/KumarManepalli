@@ -4,7 +4,7 @@
 
 # A passionate frontend developer from India
 
-- 🌱 I am currently learning more about Mern-stack development.
+- 🌱 I am currently learning more about Web develpment.
 - 📫 What is the best way to contact me? stylishkumar21@gmail.com
 - 😄 Pronouns: He/Him
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
