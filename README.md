@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-# Full Stack developer from India
+# MERN Stack developer from India
 
 - 🌱 I am currently learning more about Web develpment.
 - 📫 What is the best way to contact me? stylishkumar21@gmail.com
